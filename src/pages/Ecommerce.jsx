@@ -150,7 +150,7 @@ const Ecommerce = () => {
               <p className="font-semibold text-white text-2xl">Earnings</p>
 
               <div>
-                <p className="text-2xl text-white font-semibold mt-8">$63,448.78</p>
+                <p className="text-2xl text-white font-semibold mt-8">$64,298.78</p>
                 <p className="text-gray-200">Monthly revenue</p>
               </div>
             </div>
